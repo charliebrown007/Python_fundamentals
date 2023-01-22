@@ -1,0 +1,7 @@
+# Capítulo 4: MOdelos de regresión lineal
+
+## Definición de estadística
+
+## Dato
+
+Este capítulo es una prueba del contenido que se viene en el futuro

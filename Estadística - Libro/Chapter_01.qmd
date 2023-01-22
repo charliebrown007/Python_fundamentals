@@ -1,0 +1,9 @@
+# Capítulo 1: Conceptos básicos
+
+## Definición de estadística
+
+## Datos
+
+Este capítulo es una prueba del contenido que se viene en el futuro.
+
+Se pretende mostrar las definiciones importantes, tipos de una variables, estructura de una variable, etc.

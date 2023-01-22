@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: "Estadística - Libro"
+  author: "Jane Doe"
+  date: "14/1/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - Chapter_01.qmd
+    - Chapter_02.qmd
+    - Chapter_03.qmd
+    - Chapter_04.qmd
+    - Chapter_05.qmd
+    - Chapter_06.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

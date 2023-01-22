@@ -1,0 +1,7 @@
+# Capítulo 2: Operaciones básicas
+
+## Operaciones aritméticas
+
+## Ecuaciones y modelado numérico
+
+Este capítulo es una prueba del contenido que se viene en el futuro
