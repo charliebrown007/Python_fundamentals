@@ -1,7 +1,0 @@
-# Capítulo 6: Tablas de contingencia y agrupación de datos
-
-## Definición de estadística
-
-## Dato
-
-Este capítulo es una prueba del contenido que se viene en el futuro
